@@ -1,1 +1,0 @@
-import{j as a}from"./index-C7Hu0Skt.js";import{l as e,e as r}from"./App-DwyEMDvv.js";import{d as o,s as t}from"./fleetLabels-BKs1DUch.js";function l({status:s}){return a.jsx(e,{variant:"outline",className:r("whitespace-nowrap",t[s]),children:o[s]??s})}export{l as I};
