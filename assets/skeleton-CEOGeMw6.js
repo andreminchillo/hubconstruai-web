@@ -1,0 +1,1 @@
+import{j as m}from"./index-uRf6-iNK.js";import{a as o}from"./App-BARREiPK.js";function a({className:e,...t}){return m.jsx("div",{className:o("animate-pulse rounded-md bg-muted",e),...t})}export{a as S};
